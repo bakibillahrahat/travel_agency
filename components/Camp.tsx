@@ -76,7 +76,13 @@ const Camp = () => {
             That's why we are here for those of you who want to start an
             adventure
           </p>
-          <Image src="/quote.svg" alt="camp-2" width={186} height={219} className="camp-quote"/>
+          <Image
+            src="/quote.svg"
+            alt="camp-2"
+            width={186}
+            height={219}
+            className="camp-quote"
+          />
         </div>
       </div>
     </section>
