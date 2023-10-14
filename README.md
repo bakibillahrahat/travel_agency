@@ -36,7 +36,7 @@ npm install
 ```
 
 ```javascript
-npm start
+npm run dev
 ```
 
 ## Features
